@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Convert a CSV broker statement for import with a portfolio manager.
+Convert an arbitrary broker statement into an useful format.
 """
 
 __author__  = "Daniel Souza <me@posix.dev.br>"
